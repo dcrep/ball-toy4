@@ -6,5 +6,7 @@ Playable at https://dcrep.github.io/ball-toy4/
 
 Controls: standard Left/Right arrow or A/D move, space-bar to jump or launch off grapple, right-click to grapple to nearest grapple point
 
+Source at https://github.com/dcrep/mod1-w4toyrepo-DC
+
 ## Team Members:
 - Daniel C
