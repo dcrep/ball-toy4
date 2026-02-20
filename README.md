@@ -1,2 +1,10 @@
 # ball-toy4
-Experimental ball rolling, grappling mashup
+
+A mashup/experiment of a rolling ball with grapple and jump abilities with a tree dropping apples (multiple project combine)
+
+Playable at https://dcrep.github.io/ball-toy4/
+
+Controls: standard Left/Right arrow or A/D move, space-bar to jump or launch off grapple, right-click to grapple to nearest grapple point
+
+## Team Members:
+- Daniel C
