@@ -6,6 +6,14 @@
     <title>Unity Web Player | Ball-Toy4</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+    <style>
+      #description {
+        max-width: 800px;
+        margin: 20px auto;   /* centers the block */
+        padding: 0 20px;
+        text-align: left;    /* keeps inner text left-aligned */
+      }
+    </style>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -22,6 +30,16 @@
         <div id="unity-fullscreen-button"></div>
         <div id="unity-build-title">Ball-Toy4</div>
       </div>
+    </div>
+	  <div id="description">
+      <h1 style="text-align:center;">Ball-Toy4</h1>
+      <p style="text-align:center;">A mashup/experiment of a rolling ball with grapple and jump abilities with a tree dropping apples</p>
+      <p></p>
+      <p>Source at <a href="https://github.com/dcrep/mod1-w4toyrepo-DC">https://github.com/dcrep/mod1-w4toyrepo-DC</a></p>
+      <p>Goals: combine multiple projects into one</p>  
+      <p>Controls: standard Left/Right arrow or A/D move, space-bar to jump or launch off grapple, right-click to grapple to nearest grapple point</p>
+      <p>## Team Members:</p>
+      <p>- Daniel C</p>
     </div>
     <script>
       var canvas = document.querySelector("#unity-canvas");
